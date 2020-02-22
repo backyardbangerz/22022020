@@ -1,22 +1,22 @@
 ---
-title: "Be a Volunteer"
+title: "Careers"
 date: 2019-09-25T11:28:32+06:00
 draft: false
-description : "this is a meta description"
+description : "We’re looking for dynamic and passionate people to join our growing team."
 bgImage: "images/bg/bg-3.jpg"
 ---
 
-**Help a child discover the joy of learning and join us in our efforts to put Every Child in School!**
+# **Let's Get to Work**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto deserunt quo aliquid porro corrupti,
-pariatur, quaerat culpa libero sunt assumenda eos nihil facilis, inventore mollitia a? Excepturi sed, ex quam.
+We believe our people are our best asset and we go the extra mile to help them grow. 
+At Fitness Lifestyle, we’ll give you all the support you need to turn doing what you love into a worthwhile and rewarding career.
 
-#### Volunteer benefits
+#### Trainer benefits
 
-As a volunteer you will get benefit from:
+As a trainer you will get benefit from:
 
 - **Training** - get discounted rates on our unique training courses.
 - **Events** - receive discounted tickets and invitations to member-only events.
 - **Community** - share knowledge and best practice with peers.
 - **Networking** - talk to the right people when you need to.
-- **Expertise**- access the Bond groups and the best tools and resources.
+- **Expertise**- access the partner groups and the best tools and resources.
