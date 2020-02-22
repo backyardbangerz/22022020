@@ -76,8 +76,8 @@ paginate = 6
  #   URL = "volunteer"
   
   [[menu.main]]
-  name = "Classes"
-  URL = "classes"
+  name = "Event"
+  URL = "event"
   weight = 3
     
   [[menu.main]]
