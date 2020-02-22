@@ -1,22 +1,23 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "Small Help Can Make Change"
-  title : "New hope for <br> near future"
-  content : "Your small contribution means a lot. Natus officia amet hic <br> accusamus repellat magni reprehenderit dolorem."
+  subtitle : "Getting Better Everyday"
+  title : " The Best Fitness <br> Studio In Town"
+  content : "COME AND EXPERIENCE A NEW WAY OF LIFE AT FITNESS LIFESTYLE NOW"
   button:
     enable : true
-    label : "Donate Now"
-    link : "donation"
+    label : "Learn More"
+    link : "classes"
 
 ############################# Intro ##################################
 intro:
   enable: true
   subtitle : "What we can do"
-  title : "We Believe that We can <br>Save More Lifes with you"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, dicta, iure. Esse quasi labore aperiam,
-          dolorem amet voluptas soluta asperiores nostrum voluptate molestias numquam similique. Voluptate natus
-          corporis ex, distinctio."
+  title : "We Believe that We can <br>Help You be a Better you"
+  content : "Our passion for empowering members to live fit and healthy lives is reflected in everything we do. 
+  We realize that the toughest step is often taking that first step into a gym, and that’s why our clubs feel more like communities. 
+  Here, you can be yourself, go at your own pace and get the inspiration and support you need to achieve your best every day."
+
   introItem:
     # intro item loop
     - title : "Get inspired"
@@ -24,26 +25,26 @@ intro:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
       
     # intro item loop
-    - title : "Give Donation"
+    - title : "Build Yourself"
       image : "images/about/image-2.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
       
     # intro item loop
-    - title : "Become a Volunteer"
+    - title : "Eat Healthy"
       image : "images/about/image-3.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
       
     # intro item loop
-    - title : "Help The children"
+    - title : "Live a Healty Lifesytle"
       image : "images/about/image-1.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
 
 ################################# Video ###############################
 video:
   enable : true
-  title : "We Make a Difference <br>in their Life"
+  title : "We Make a Difference <br>in every Lifestyle"
   videoThumb : "images/bg/bg-3.jpg"
-  video: "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  video: "https://www.youtube.com/watch?v=1XHrTIQg_d4"
   
 ################################# funfacts ###############################
 funfacts:
@@ -51,23 +52,23 @@ funfacts:
   funItem:
     # funfacts item loop
     - title : "Years of Experience"
-      count: "18"
+      count: "10"
       
     # funfacts item loop
-    - title : "Active Volunteer"
+    - title : "Active Members"
       count: "1460"
       
     # funfacts item loop
-    - title : "Availble Country"
-      count: "92"
+    - title : "Availble Classes"
+      count: "24"
       
     # funfacts item loop
-    - title : "Million People Helped"
-      count: "54"
+    - title : "Open Days"
+      count: "365"
 
 ############################ gallery ###################################
 gallery:
-  enable : true
+  enable : False
   subtitle : "Our Gallery"
   title : "We connect with people across different sectors. we take risksand we always keep learning."
   galleryItems:
@@ -83,7 +84,7 @@ gallery:
 
 ########################## latest causes ################################
 causes:
-  enable : true
+  enable : False
   subtitle : "Latest Cuases"
   title : "Our Recent Causes to serve better"
   content : "We provide services in the area of IFRS and management reporting, helping companies to reach
@@ -93,15 +94,15 @@ causes:
 ######################## call to action ###################################
 cta:
   enable : true
-  title : "We can’t help everyone, but everyone can help someone"
+  title : "We are 100% committed to help you achieve your goals - 3 times faster than on your own!"
   button:
     enable : true
-    label : "Make a donation"
-    link : "donation"
+    label : "Contact Us Now"
+    link : "contact"
 
 ############################# Latest Blog ###############################
 blog:
-  enable : true
+  enable : false
   subtitle : ""
   title : ""
   content : ""
@@ -109,13 +110,13 @@ blog:
 
 ################################# Volunteer ##############################
 volunteer:
-  enable : true
+  enable : false
   image : "images/bg/image-5.jpg"
   title : "We can’t help everyone, but everyone can help someone"
   content : "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
             ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
   partners:
-    enable : true
+    enable : false
     title : "Trusted worldwide partner"
     partner:
       # partner loop
