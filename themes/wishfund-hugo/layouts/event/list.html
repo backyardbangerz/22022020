@@ -14,11 +14,13 @@
             <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
             <p class="card-text">{{ .Summary }}</p>
           </div>
+          <!--
           <ul class="list-group list-group-flush">
             <li class="list-group-item"><strong>Date : </strong> {{ .Params.EventDate }}</li>
             <li class="list-group-item"><strong>Location : </strong> {{ .Params.Location | markdownify }}</li>
             <li class="list-group-item"><strong>Organizer : </strong> {{ .Params.Organizer | markdownify }}</li>
           </ul>
+          -->
           <a href="{{ .Permalink }}" class="btn btn-main-2">Learn More</a>
         </div>
       </div>
@@ -27,7 +29,7 @@
     {{ template "_internal/pagination.html" . }}
   </div>
 </section>
-
+<!--
 {{ partial "cta.html" . }}
-
+-->
 {{ end }}
