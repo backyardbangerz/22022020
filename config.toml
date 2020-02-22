@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "WishFund hugo | Nonprofit Charity Funderising Theme"
+title = "Fitness Lifestyle | Where Fitness is a Way of Life"
 theme = "wishfund-hugo"
 summaryLength = "10"
 paginate = 6
@@ -50,80 +50,91 @@ paginate = 6
   URL = "about"
   weight = 2
   
+ # [[menu.main]]
+ # name = "Blog"
+ # URL = "blog"
+ # weight = 3
+  
+ # [[menu.main]]
+ # name = "Causes"
+ # URL = "causes"
+ # weight = 4
+
+ # [[menu.main]]
+ # weight = 5
+ # name = "Get Involved"
+ # hasChildren = true
+ #
+ #   [[menu.main]]
+ #   parent = "Get Involved"
+ #   name = "Donation"
+ #   URL = "donation"
+ #
+ #   [[menu.main]]
+ #   parent = "Get Involved"
+ #   name = "Volunteer"
+ #   URL = "volunteer"
+  
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
+  name = "Classes"
+  URL = "classes"
   weight = 3
-  
-  [[menu.main]]
-  name = "Causes"
-  URL = "causes"
-  weight = 4
-
-  [[menu.main]]
-  weight = 5
-  name = "Get Involved"
-  hasChildren = true
-
-    [[menu.main]]
-    parent = "Get Involved"
-    name = "Donation"
-    URL = "donation"
-
-    [[menu.main]]
-    parent = "Get Involved"
-    name = "Volunteer"
-    URL = "volunteer"
-  
-  [[menu.main]]
-  name = "Event"
-  URL = "event"
-  weight = 6
     
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 7
+  weight = 4
 
   ################# footer menu ##################
 
-  [[menu.footer]]
-  name = "service"
-  URL = "service"
-  weight = 1
+ # [[menu.footer]]
+ # name = "service"
+ # URL = "service"
+ # weight = 1
 
   [[menu.footer]]
   name = "about"
   URL = "about"
-  weight = 2
+  weight = 1
   
-  [[menu.footer]]
-  name = "blog"
-  URL = "blog"
-  weight = 3
+ # [[menu.footer]]
+ # name = "blog"
+ # URL = "blog"
+ # weight = 3
   
   [[menu.footer]]
   name = "pricing"
   URL = "pricing"
-  weight = 4
+  weight = 2
+  
+  [[menu.footer]]
+  name = "contact"
+  URL = "contact"
+  weight = 3
 
 
 [params]
 logo = "images/logo.png"
 home = "Home"
 # Contact Information
-phone = "012548722120"
-email = "example@email.com"
-location = "Flat 20, Reynolds Neck, North Helenaville, FV77"
-copyright = "&copy; 2019 a theme by [themefisher](https://themefisher.com/)"
+phone = "+6052822472"
+email = "contact@fitnesslifestyle.com.my"
+location = "No. 35A, Jalan Rishah Permai, 30100 Ipoh, Perak Darul Ridzuan, Malaysia."
+
+#copyright = "&copy; 2020 a theme by [themefisher](https://themefisher.com/)"
+copyright = "&copy; 2020 Fitnes Lifestyle (IP0325209-M)"
+
+
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "At FITNESS LIFESTYLE, we guide you to a better health and fitness in order for you to beter cope with this modern lifestyle."
+author = "Techshakers PLT"
+
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDepzTGppd8gOamvKe_W2COkKlLdcv-LTI&libraries=places"
+mapLatitude = "4.585965"
+mapLongitude = "101.052819"
 mapMarker = "images/marker.png"
+
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
@@ -138,8 +149,8 @@ googleAnalitycsID = "Your ID"
   # Navigation button
   [params.navBtn]
   enable = true
-  label = "Get a quote"
-  link = "donation"
+  label = "Get a Free Trial"
+  link = "contact"
 
   # Subscription
   [params.subscription]
@@ -151,21 +162,21 @@ googleAnalitycsID = "Your ID"
   [[params.social]]
   name = "Facebook"
   icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  link = "https://www.facebook.com/SamPakiaraj/"
+  
+  [[params.social]]
+  name = "Instagram"
+  icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
+  link = "https://www.instagram.com/fitnesslifestyleipoh/"
+  
+  [[params.social]]
+  name = "YouTube"
+  icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
+  link = "https://www.youtube.com/channel/UChUBwPx1CyWsYjkAUohn8yA"
   
   [[params.social]]
   name = "Twitter"
   icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-  link = "#"
-  
-  [[params.social]]
-  name = "Vimeo"
-  icon = "ti-vimeo-alt" # themify icon pack https://themify.me/themify-icons
-  link = "#"
-  
-  [[params.social]]
-  name = "Github"
-  icon = "ti-github" # themify icon pack https://themify.me/themify-icons
   link = "#"
   
 ############################# post share links ######################
