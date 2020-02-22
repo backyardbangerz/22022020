@@ -70,7 +70,7 @@ funfacts:
 gallery:
   enable : False
   subtitle : "Our Gallery"
-  title : "We connect with people across different sectors. we take risksand we always keep learning."
+  title : "We connect with people across different lifestyle. We take risks and we always keep progressing."
   galleryItems:
     - image : "images/gallery/1.jpg"
     - image : "images/gallery/2.jpg"
