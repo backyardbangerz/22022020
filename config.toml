@@ -76,7 +76,7 @@ paginate = 6
  #   URL = "volunteer"
   
   [[menu.main]]
-  name = "Event"
+  name = "Class"
   URL = "event"
   weight = 3
     
@@ -84,6 +84,11 @@ paginate = 6
   name = "Contact"
   URL = "contact"
   weight = 4
+
+#  [[menu.main]]
+#  name = "Pricing"
+#  URL = "pricing"
+#  weight = 5
 
   ################# footer menu ##################
 
