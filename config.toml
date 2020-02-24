@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://zealous-swirles-ddfd74.netlify.com"
+baseURL = "https://demo.fitnesslifestyle.com.my/"
 languageCode = "en-us"
 title = "Fitness Lifestyle | Where Fitness is a Way of Life"
 theme = "wishfund-hugo"
