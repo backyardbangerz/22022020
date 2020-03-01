@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.demo.fitnesslifestyle.com.my/"
+baseURL = "https://tender-carson-9228b3.netlify.com/"
 languageCode = "en-us"
 title = "Fitness Lifestyle | Where Fitness is a Way of Life"
 theme = "wishfund-hugo"
@@ -21,6 +21,10 @@ paginate = 6
   URL = "plugins/magnific-popup/dist/magnific-popup.css"
   [[params.plugins.css]]
   URL = "plugins/slick-carousel/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/cody-house/css/style.css"
+  [[params.plugins.css]]
+  URL = "plugins/cody-house/css/style.scss"
 
   # JS Plugins
   [[params.plugins.js]]
@@ -41,6 +45,10 @@ paginate = 6
   URL = "plugins/search/search.js"
   [[params.plugins.js]]
   URL = "plugins/google-map/map.js"
+  [[params.plugins.js]]
+  URL = "plugins/cody-house/js/util.js"
+  [[params.plugins.js]]
+  URL = "plugins/cody-house/js/main.js"
   
 ############################## navigation ###############################
 [menu]
@@ -50,62 +58,32 @@ paginate = 6
   URL = "about"
   weight = 2
   
- # [[menu.main]]
- # name = "Blog"
- # URL = "blog"
- # weight = 3
-  
- # [[menu.main]]
- # name = "Causes"
- # URL = "causes"
- # weight = 4
-
- # [[menu.main]]
- # weight = 5
- # name = "Get Involved"
- # hasChildren = true
- #
- #   [[menu.main]]
- #   parent = "Get Involved"
- #   name = "Donation"
- #   URL = "donation"
- #
- #   [[menu.main]]
- #   parent = "Get Involved"
- #   name = "Volunteer"
- #   URL = "volunteer"
-  
   [[menu.main]]
-  name = "Class"
-  URL = "event"
+  name = "More"
   weight = 3
-    
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "More"
+    name = "Class"
+    URL = "event"
+
+   # [[menu.main]]
+   # parent = "More"
+   # name = "Schedule"
+   # URL = "calendar"
+
   [[menu.main]]
   name = "Contact"
   URL = "contact"
   weight = 4
 
-#  [[menu.main]]
-#  name = "Pricing"
-#  URL = "pricing"
-#  weight = 5
-
   ################# footer menu ##################
 
- # [[menu.footer]]
- # name = "service"
- # URL = "service"
- # weight = 1
-
-  [[menu.footer]]
+ [[menu.footer]]
   name = "about"
   URL = "about"
   weight = 1
-  
- # [[menu.footer]]
- # name = "blog"
- # URL = "blog"
- # weight = 3
   
   [[menu.footer]]
   name = "pricing"
@@ -117,14 +95,14 @@ paginate = 6
   URL = "contact"
   weight = 3
 
-
 [params]
 logo = "images/logo.png"
 home = "Home"
+
 # Contact Information
-phone = "+6052822472"
+phone = "+6052822472 / +60125411472"
 email = "contact@fitnesslifestyle.com.my"
-location = "No. 35A, Jalan Rishah Permai, 30100 Ipoh, Perak Darul Ridzuan, Malaysia."
+location = "35 & 37, Persiaran Desa Rishah 1, Desa Rishah, 30100 Menglembu, Perak Darul Ridzuan, Malaysia."
 
 #copyright = "&copy; 2020 a theme by [themefisher](https://themefisher.com/)"
 copyright = "&copy; 2020 Fitnes Lifestyle (IP0325209-M)"
@@ -135,7 +113,7 @@ description = "At FITNESS LIFESTYLE, we guide you to a better health and fitness
 author = "Techshakers PLT"
 
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDepzTGppd8gOamvKe_W2COkKlLdcv-LTI&libraries=places"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBeXaKQFejheHgKTpLCltH29mS7rmSS_fo&libraries=places"
 mapLatitude = "4.585965"
 mapLongitude = "101.052819"
 mapMarker = "images/marker.png"
