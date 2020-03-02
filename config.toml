@@ -68,10 +68,10 @@ paginate = 6
     name = "Class"
     URL = "event"
 
-   # [[menu.main]]
-   # parent = "More"
-   # name = "Schedule"
-   # URL = "calendar"
+    [[menu.main]]
+    parent = "More"
+    name = "Schedule"
+    URL = "calendar"
 
   [[menu.main]]
   name = "Contact"
