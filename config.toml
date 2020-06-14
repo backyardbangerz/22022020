@@ -170,7 +170,7 @@ googleAnalitycsID = "Your ID"
   [[params.social]]
   name = "YouTube"
   icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
-  link = "https://www.youtube.com/channel/UChUBwPx1CyWsYjkAUohn8yA"
+  link = "https://www.youtube.com/channel/UCZRJCr7ds_6zGaEtchpEwwA"
   
   [[params.social]]
   name = "Twitter"
