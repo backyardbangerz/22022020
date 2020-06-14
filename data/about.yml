@@ -69,6 +69,7 @@ team:
     # team member loop
     - name : "Trainer Devan"
       designation : "Trainer"
+      bio: "Bla bla bla"
       image : "images/team/staff-4.jpg"
       social:
         - name : "facebook"
@@ -90,6 +91,7 @@ team:
     # team member loop
     - name : "Tainer William"
       designation : "Trainer"
+      bio: "Bul bul bul"
       image : "images/team/staff-6.jpg"
       social:
         - name : "facebook"
@@ -111,6 +113,7 @@ team:
     # team member loop
     - name : "Trainer Joey"
       designation : "Trainer"
+      bio: "Bil bil bil"
       image : "images/team/staff-8.jpg"
       social:
         - name : "facebook"
@@ -132,6 +135,7 @@ team:
     # team member loop
     - name : "Dr. Gayathri"
       designation : "Medic"
+      bio: "Bli bli bli"
       image : "images/team/staff-5.jpg"
       social:
         - name : "facebook"
