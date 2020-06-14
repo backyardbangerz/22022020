@@ -57,26 +57,41 @@ paginate = 6
   name = "About"
   URL = "about"
   weight = 2
-  
+
   [[menu.main]]
-  name = "More"
+  name = "Programmes"
   weight = 3
   hasChildren = true
 
     [[menu.main]]
-    parent = "More"
+    parent = "Programmes"
+    name = "Personal Training"
+    URL = "trainer"
+
+    [[menu.main]]
+    parent = "Programmes"
+    name = "Sports Performance Training"
+    URL = "sports"
+  
+  [[menu.main]]
+  name = "Classes"
+  weight = 4
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "Classes"
     name = "Class"
     URL = "event"
 
     [[menu.main]]
-    parent = "More"
+    parent = "Classes"
     name = "Schedule"
     URL = "calendar"
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 4
+  weight = 5
 
   ################# footer menu ##################
 
