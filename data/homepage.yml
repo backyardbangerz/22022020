@@ -1,8 +1,8 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "Getting Better Everyday"
-  title : " The Best Fitness <br> Studio In Town"
+  subtitle : "RAISE YOUR GAME"
+  title : " The Best Sports Performance <br> Fitness Centre In Town"
   content : "COME AND EXPERIENCE A NEW WAY OF LIFE AT FITNESS LIFESTYLE NOW"
   button:
     enable : true

@@ -38,9 +38,9 @@ history:
   enable : true
   historyItem:
     # history item loop
-    - title : "Founded in 2010"
+    - title : "Established in 2010"
       icon : "ti-home"
-      subtitle : "Operational since 2013!!"
+      subtitle : "Operational since 2010!!"
       content : "Fitness Lifestyle was established in 2010 by Sam Pakiaraj, one of the industry's fitness leaders."
       
     # history item loop
