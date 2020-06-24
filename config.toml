@@ -2,7 +2,7 @@
 baseURL = "https://www.demo.fitnesslifestyle.com.my"
 languageCode = "en-us"
 title = "Fitness Lifestyle | Where Fitness is a Way of Life"
-theme = "wishfund-hugo"
+theme = ["hugo-social-metadata", "wishfund-hugo"]
 summaryLength = "10"
 paginate = 6
 
@@ -121,6 +121,7 @@ copyright = "&copy; 2020 Fitnes Lifestyle (IP0325209-M)"
 
 # Meta data
 description = "At FITNESS LIFESTYLE, we guide you to a better health and fitness in order for you to beter cope with this modern lifestyle."
+socialImage = "images/marker.png"
 author = "Techshakers PLT"
 
 # google map
