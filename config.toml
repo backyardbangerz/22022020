@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.demo.fitnesslifestyle.com.my/"
+baseURL = "https://www.demo.fitnesslifestyle.com.my"
 languageCode = "en-us"
 title = "Fitness Lifestyle | Where Fitness is a Way of Life"
 theme = "wishfund-hugo"
@@ -21,10 +21,6 @@ paginate = 6
   URL = "plugins/magnific-popup/dist/magnific-popup.css"
   [[params.plugins.css]]
   URL = "plugins/slick-carousel/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/cody-house/css/style.css"
-  [[params.plugins.css]]
-  URL = "plugins/cody-house/css/style.scss"
 
   # JS Plugins
   [[params.plugins.js]]
