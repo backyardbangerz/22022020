@@ -110,38 +110,27 @@ blog:
 
 ################################# Volunteer ##############################
 volunteer:
-  enable : false
-  image : "images/bg/image-5.jpg"
-  title : "We can’t help everyone, but everyone can help someone"
-  content : "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
-            ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
+  enable : true
+  image : "images/bg/perak.jpg"
+  title : "Atheletic based Training Centre"
+  # content : "Optimising athletic performance"
   partners:
-    enable : false
-    title : "Trusted worldwide partner"
+    enable : true
+    title : "Trusted partner"
     partner:
       # partner loop
-      - logo : "images/clients/client1.png"
+      - logo : "images/clients/client7.png"
         link : "#"
         
       # partner loop
-      - logo : "images/clients/client2.png"
+      - logo : "images/clients/client8.png"
         link : "#"
-        
-      # partner loop
-      - logo : "images/clients/client4.png"
-        link : "#"
-        
-      # partner loop
-      - logo : "images/clients/client5.png"
-        link : "#"
-        
-      # partner loop
-      - logo : "images/clients/client6.png"
-        link : "#"
+
   
   # form
-  form:
-    subtitle : "Join With us"
-    title : "Become A Volunteer"
-    formAction : "#" # form works with formspree.io
+  # form:
+  #  enable : false
+  #  subtitle : "Join With us"
+  #  title : "Become A Volunteer"
+  #  formAction : "#" # form works with formspree.io
     
