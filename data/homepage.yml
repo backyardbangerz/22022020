@@ -26,8 +26,8 @@ intro:
       
     # intro item loop
     - title : "Sports Performance Training"
-      image : "images/homepage/image-2.jpeg"
-      content : "OUR Sports Performance Training is designed with athletes in mind. Whether you play team sports or solo, whether you play ball sports or track & field and whether you're a pro, semi-pro or hobby athlete, we'll help you reach your full potential. You'll get a full assessment, performance test, personalised programme and 2 or 3 small group training sessions per week, in which you'll learn to run faster, jump higher, leap farther and watch your performance skyrocket on the field, court, track or pitchsigned with athletes in mind. Whether you play team sports or solo, whether you play ball sports or track & field and whether you're a pro, semi-pro or hobby athlete, we'll help you reach your full potential. You'll get a full assessment, performance test, personalised programme and 2 or 3 small group training sessions per week, in which you'll learn to run faster, jump higher, leap farther and watch your performance skyrocket on the field, court, track or pitch."
+      image : "images/homepage/image-2.jpg"
+      content : "Our Sports Performance Training is designed with athletes in mind. Whether you play team sports or solo, whether you play ball sports or track & field and whether you're a pro, semi-pro or hobby athlete, we'll help you reach your full potential. You'll get a full assessment, performance test, personalised programme and 2 or 3 small group training sessions per week, in which you'll learn to run faster, jump higher, leap farther and watch your performance skyrocket on the field, court, track or pitchsigned with athletes in mind. Whether you play team sports or solo, whether you play ball sports or track & field and whether you're a pro, semi-pro or hobby athlete, we'll help you reach your full potential. You'll get a full assessment, performance test, personalised programme and 2 or 3 small group training sessions per week, in which you'll learn to run faster, jump higher, leap farther and watch your performance skyrocket on the field, court, track or pitch."
       
     # intro item loop
     - title : ""
@@ -112,19 +112,15 @@ blog:
 volunteer:
   enable : true
   image : "images/bg/perak.jpg"
-  title : "Atheletic based Training Centre"
-  # content : "Optimising athletic performance"
+  title : "Atheletic Based Training Centre"
+  content : "Our fitness training facility was founded by athletes, for athletes—and we know better than most how hard one can push themselves to achieve desired results. That’s why he wanted to bring that passion and dedication to those who were looking to break free from traditional gyms. We’ll get to know you, your fitness history, and what you’re looking to achieve and then from there we will customize a workout that is unique to you. All we ask is that you show up and bring your dedication."
   partners:
     enable : true
-    title : "Trusted partner"
+    title : "Trusted Partner"
     partner:
       # partner loop
       - logo : "images/clients/client7.png"
-        link : "#"
-        
-      # partner loop
-      - logo : "images/clients/client8.png"
-        link : "#"
+        #link : "#"
 
   
   # form

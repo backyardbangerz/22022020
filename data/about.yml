@@ -61,7 +61,7 @@ team:
   subtitle : "Our Trainers"
   title : "Expert trainers to get best service"
   button:
-    enable : true
+    enable : false
     label : "Become a Trainer"
     link : "volunteer"
 
