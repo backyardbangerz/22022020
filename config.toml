@@ -2,7 +2,7 @@
 baseURL = "https://www.demo.fitnesslifestyle.com.my/"
 languageCode = "en-us"
 title = "Fitness Lifestyle | Where Fitness is a Way of Life"
-theme = "wishfund-hugo"
+#theme = "wishfund-hugo"
 summaryLength = "10"
 paginate = 6
 
@@ -80,7 +80,7 @@ paginate = 6
 
     [[menu.main]]
     parent = "Classes"
-    name = "Class"
+    name = "All Class"
     URL = "event"
 
     [[menu.main]]
@@ -172,10 +172,10 @@ googleAnalitycsID = "Your ID"
   icon = "ti-youtube" # themify icon pack https://themify.me/themify-icons
   link = "https://www.youtube.com/channel/UCZRJCr7ds_6zGaEtchpEwwA"
   
-  [[params.social]]
-  name = "Twitter"
-  icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  #[[params.social]]
+  #name = "Twitter"
+  #icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+  #link = "#"
   
 ############################# post share links ######################
 [[params.postShare]]
@@ -183,10 +183,10 @@ icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
 name = "facebook"
 link = "#"
 
-[[params.postShare]]
-icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-name = "twitter"
-link = "#"
+#[[params.postShare]]
+#icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+#name = "twitter"
+#link = "#"
 
 [[params.postShare]]
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
