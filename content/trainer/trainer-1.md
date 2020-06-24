@@ -33,4 +33,8 @@ This FITNESS PROGRAM  are designed to give you an efficient workout in a fun env
 - Monthly Workout “Tune-Ups”
 - Sport-Specific Training
 
+* We Are creative organization
+* Trusted funding Resources for poor 
+* Quas placeat mollitia nisi voluptatem illum laborum
+
 Start your fitness goals with assistance from our Certified Personal Trainers who can help you meet your fitness goals more effectively. We specialize in many areas such as weight management, injury rehabilitation, sports specifics, nutrition, and flexibility.
