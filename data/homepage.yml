@@ -113,10 +113,10 @@ volunteer:
   enable : true
   image : "images/bg/perak.jpg"
   title : "Atheletic Based Training Centre"
-  content : "Our fitness training facility was founded by athletes, for athletes—and we know better than most how hard one can push themselves to achieve desired results. That’s why he wanted to bring that passion and dedication to those who were looking to break free from traditional gyms. We’ll get to know you, your fitness history, and what you’re looking to achieve and then from there we will customize a workout that is unique to you. All we ask is that you show up and bring your dedication."
+  content : "Our fitness training facility was founded by athletes, for athletes and we know better than most how hard one can push themselves to achieve desired results. That’s why he wanted to bring that passion and dedication to those who were looking to break free from traditional gyms. We’ll get to know you, your fitness history, and what you’re looking to achieve and then from there we will customize a workout that is unique to you. All we ask is that you show up and bring your dedication."
   partners:
     enable : true
-    title : "Trusted Partner"
+    title : "Official Training Centre"
     partner:
       # partner loop
       - logo : "images/clients/client7.png"
