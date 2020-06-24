@@ -110,12 +110,12 @@ blog:
 
 ################################# Volunteer ##############################
 volunteer:
-  enable : true
+  enable : false
   image : "images/bg/perak.jpg"
   title : "Atheletic based Training Centre"
   # content : "Optimising athletic performance"
   partners:
-    enable : true
+    enable : false
     title : "Trusted partner"
     partner:
       # partner loop
