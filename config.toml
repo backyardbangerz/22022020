@@ -67,7 +67,7 @@ paginate = 6
     [[menu.main]]
     parent = "Programmes"
     name = "Sports Performance Training"
-    URL = "sports"
+    URL = "sports/sports-1"
   
   [[menu.main]]
   name = "Classes"

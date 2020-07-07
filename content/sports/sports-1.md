@@ -3,34 +3,41 @@ title: "Sports Performance Training"
 # date: 2019-09-25T11:28:32+06:00
 draft: false
 description : "this is a meta description"
-bgImage: "images/trainer/banner-trainer.jpg"
-image: "images/trainer/trainer-1.jpg"
+bgImage: "images/sports/banner-sports.jpg"
+image: "images/sports/sports-1.jpg"
 # eventDate: "16th september 2019"
 # location: "manking park ,USA"
 # organizer: "Chariti hub"
 type: "event"
 ---
 
-Personal training is one-on-one instruction that incorporates exercise screening, goal-setting and health education. Following a fitness consultation, the trainer will design a challenging workout routine specifically designed for each individual’s needs. Your personal trainer is there to instruct you on proper lifting techniques, introduce you to exercises that target your specific goals and motivate you towards your full potential.
+Improve your athletic performance and fitness in a wide range of programs at FITNESS LIFESTYLE. Skill-specific training programs can help you increase your abilities and prevent injuries.
 
-This FITNESS PROGRAM  are designed to give you an efficient workout in a fun environment. They also dictate a schedule that will help you keep exercise in your routine, as well as some measure of accountability to remain committed to the goal. Surrounded by friends and upbeat music, you may find the time flies by with you hardly noticing.
+## Personal Training for Fitness & Sports 
+If you're new to conditioning or you want to take your fitness to a higher level, personal training can help. Work towards your goals in a specific sport or general improved fitness.
 
-## Personal training is especially useful for:
+## Individual & Group Training
+Purchase personal training for groups of up to six athletes.
 
-1. Those new to exercise or who have not exercised in a long time
-2. Those who have reached a fitness/weight loss plateau
-3. If you are a mature exerciser
-4. Enhancing sporting performance
-5. Rehabilitation from injury
+## Certified Personal Trainers
+You'll partner with a certified personal trainer who will individualize your workouts to your unique needs and goals. Rely on your trainer to help you stay focused and use your time in the gym effectively.
 
+## Free First Session
+If you're a first-time client, take advantage of a complimentary personal training session.
 
-## How can a Personal Trainer help me?
+## Functional Movement Screen
+During your first personal training session, you'll have a functional movement screen. This is a test to check your current fitness levels. 
 
-* Individual Exercise Plans
-* Daily/Weekly Motivation
-* Fitness/Health Goal Setting
-* Weight Loss/Gain Plans
-* Monthly Workout “Tune-Ups”
-* Sport-Specific Training
+## Speed, Agility & Quickness Training
+If you're an athlete age 13 or older, attend a class that compliments strength training. This class can help you improve:
+- Change of direction
+- Lateral quickness
+- Reaction time
+- Sprint speed
+- Vertical jump
+ 
+ 
+## Youth Speed, Agility & Quickness Training
+Open to athletes 10 to 12 years old, this program gives young athletes training for improved performance in a fun atmosphere. Learn the basic fundamentals of running, change of direction, jumping, and foot movement.
 
-Start your fitness goals with assistance from our Certified Personal Trainers who can help you meet your fitness goals more effectively. We specialize in many areas such as weight management, injury rehabilitation, sports specifics, nutrition, and flexibility.
+{{< youtube nC1caw7KaFs >}}
