@@ -70,7 +70,7 @@ team:
     - name : "Trainer Devan"
       designation : "Trainer"
       bio: "Experts in Weight Management, Meal Prep/Nutrition, Sport Specific, Strength and Conditioning, Rehabilitation, Injury prevention & General fitness. "
-      description: "It has always been my ambition to help others achieve their fitness goals, whether that be to lose weight, improve strength or any sports specific.Having competed District level in athletic , my current focus is General fitness, sports specific and Rehabilitation .With experience in strength, conditioning and endurance training, I can appreciate the importance of a varied training program to get the best results for what you are looking to achieve through hard work and enjoyment. Find me in FITNESS LIFESTYLE to talk more about your personal training."
+      #description: "It has always been my ambition to help others achieve their fitness goals, whether that be to lose weight, improve strength or any sports specific.Having competed District level in athletic , my current focus is General fitness, sports specific and Rehabilitation .With experience in strength, conditioning and endurance training, I can appreciate the importance of a varied training program to get the best results for what you are looking to achieve through hard work and enjoyment. Find me in FITNESS LIFESTYLE to talk more about your personal training."
       image : "images/team/staff-4.jpg"
       social:
         - name : "facebook"
@@ -93,7 +93,7 @@ team:
     - name : "Tainer William"
       designation : "Trainer"
       bio: "Expert in Flexibility, Nutrition, Weight loss and Fat Reduction, High Intensity Training, Weight Training for Strength and Conditioning, Rehabilitation, Sports Specific & Injury prevention."
-      description: "Years of experience gained in the health and fitness industry has allowed me to give the most to my craft. The accomplishments I’ve achieved over this time have enabled me to help and guide, providing a winning attitude to mental and physical fitness. I am able to give up to date, fun and effective workouts. Find me in FITNESS LIFESTYLE to talk more about your personal training."
+      #description: "Years of experience gained in the health and fitness industry has allowed me to give the most to my craft. The accomplishments I’ve achieved over this time have enabled me to help and guide, providing a winning attitude to mental and physical fitness. I am able to give up to date, fun and effective workouts. Find me in FITNESS LIFESTYLE to talk more about your personal training."
       image : "images/team/staff-6.jpg"
       social:
         - name : "facebook"
@@ -116,7 +116,7 @@ team:
     - name : "Trainer Joey"
       designation : "Trainer"
       bio: "Experts in Weight Management, Sport Specific, Strength and Conditioning, Rehabilitation, Injury prevention & General fitness. "
-      description: "My Passion towards improve fitness level and enhance members living.My current focus is General fitness, sports specific and Rehabilitation .I'm a specialized in making TAILORED made fitness Programme.I can make exercise FUN for everyone. Find me in FITNESS LIFESTYLE to talk more about your personal training"
+      #description: "My Passion towards improve fitness level and enhance members living.My current focus is General fitness, sports specific and Rehabilitation .I'm a specialized in making TAILORED made fitness Programme.I can make exercise FUN for everyone. Find me in FITNESS LIFESTYLE to talk more about your personal training"
       image : "images/team/staff-8.jpg"
       social:
         - name : "facebook"
@@ -139,7 +139,7 @@ team:
     - name : "Dr. Gayathri"
       designation : "Medic"
       bio: "Expert in Sports Injury"
-      description: ""
+      #description: ""
       image : "images/team/staff-5.jpg"
       social:
         - name : "facebook"
